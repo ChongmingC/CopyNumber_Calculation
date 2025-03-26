@@ -1,0 +1,21 @@
+name: rdna
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - matplotlib=3.10
+  - pandas=2.2
+  - numpy=2.1
+  - bedtools=2.31
+  - blast=2.16
+  - bwa=0.7
+  - samtools=1.20
+  - seqtk=1.4
+  - pysam=0.22
+  - igv=2.19
+  - openjdk=21.0
+  - pip=24.2
+  - setuptools=72.2
+  - wheel=0.44

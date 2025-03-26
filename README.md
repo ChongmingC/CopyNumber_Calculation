@@ -1,4 +1,3 @@
-# CopyNumber_Calculation
 # rDNA Copy Number Estimation Pipeline
 
 A  pipeline to estimate rDNA copy number from BAM files using depth-based calculations.
